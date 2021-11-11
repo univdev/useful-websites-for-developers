@@ -11,5 +11,6 @@
 - [Unicode 아이콘 모음 사이트](https://unicode-table.com/kr/)
 ### 개발 문서 사이트
 - [Vue3](https://v3.vuejs.org/)
+- [Nuxt.js v3](https://v3.nuxtjs.org/)
 ### 이펙트, UI 라이브러리
 - [Confetti.js](https://www.kirilv.com/canvas-confetti/)
